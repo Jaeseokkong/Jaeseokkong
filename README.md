@@ -1,12 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=006E51&height=220&fontColor=fff&text=HELLO%20&fontSize=80&desc=JaeSeok%20Github👋&descSize=20&fontAlignY=35&descAlignY=55&descAlign=55)
 
 <div align=center>
-    <h3>📚  Tech Stack 📚 </h3>
-      <p> 🔨 Tools 🔨</p>
-    <div>
-        <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual%Studio%Code&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%IDE&logoColor=white"/>
-    </div>
+    
     
     <p> 🌠 Language & Framework 🌠</p>
     <div>
@@ -28,6 +23,13 @@
      
   
  </div>
+ <div align=center>
+     <p> 🔨 Tools 🔨</p>
+    <div>
+        <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual%Studio%Code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%IDE&logoColor=white"/>
+    </div>
+</div>
 
 
 ### Hi there 👋
