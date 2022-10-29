@@ -25,6 +25,9 @@
     <div>
         <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
         <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XShell-f34b3e?style=flat-square&logo=Xilinx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/XFTP-8bae2d?style=flat-square&logo=Xilinx&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DBeaver-9b806c?style=flat-square&logo=Beats&logoColor=white"/>
     </div>
 </div>
 
