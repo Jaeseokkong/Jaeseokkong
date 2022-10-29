@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=006E51&height=210&fontColor=fff&text=JaeSeok%20Github%20&fontSize=80&d%20Git&descSize=20&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=006E51&height=210&fontColor=fff&text=JaeSeok%20Github👋%20&fontSize=80&d%20Git&descSize=20&fontAlignY=40)
 
 <div align=center>
     #웹
