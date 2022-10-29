@@ -4,7 +4,8 @@
     <h3>📚  Tech Stack 📚 </h3>
     <p> 🌠 Language & Framework 🌠</p>
     <div>
-        <img src="https://img.shields.io/badge/HTML5-#E34F26?style=flat&logo=HTML5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white"/>
     </div>
  </div>
 
