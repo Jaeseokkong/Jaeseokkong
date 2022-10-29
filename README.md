@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=006E51&height=220&fontColor=fff&text=HELLO%20&fontSize=80&desc=JaeSeok%20Github👋&descSize=20&fontAlignY=35&descAlignY=55&descAlign=55)
 
 <div align=center>
-    
-    
     <p> 🌠 Language & Framework 🌠</p>
     <div>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -18,16 +16,15 @@
     </div>
     <div>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-6DB33F?style=flat-square&logo=MySQL&logoColor=white"/>
     </div>
-     
   
  </div>
+ 
  <div align=center>
      <p> 🔨 Tools 🔨</p>
     <div>
-        <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual%Studio%Code&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%IDE&logoColor=white"/>
+        <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
     </div>
 </div>
 
