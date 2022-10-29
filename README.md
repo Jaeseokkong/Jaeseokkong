@@ -11,7 +11,7 @@
     </div>
     <div>
         <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-        <img src="https://img.shields.io/badge/REACT-NATIVE-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+        <img src="https://img.shields.io/badge/REACTNATIVE-61DAFB?style=flat-square&logo=React&logoColor=white"/>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
     </div>
