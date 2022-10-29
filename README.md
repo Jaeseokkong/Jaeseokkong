@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=006E51&height=210&fontColor=fff&text=JaeSeok%20Github👋%20&fontSize=80&d%20Git&descSize=20&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=006E51&height=220&fontColor=fff&text=HELLO%20&fontSize=80&desc=JaeSeok%20Github👋&descSize=20&fontAlignY=35&descAlignY=55&descAlign=55)
 
 <div align=center>
+    <h3>📚  Tech Stack 📚 </h3>
+    <p> 
     #웹
 </div>
+
 
 ### Hi there 👋
 
